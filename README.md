@@ -17,7 +17,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hungran91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hungran91" /></a></p><br><br>
-
-<iframe src="https://github.com/sponsors/hungran/card" title="Sponsor hungran" height="225" width="600" style="border: 0;"></iframe>
-
-
